@@ -13,8 +13,13 @@ nav.navbar.solid.dark, nav.navbar.solid {
 .background {
     background: cover;
     background: no-repeat;
+    opacity: 0.4;
 }
 
 body {
     font-family: 'Montserrat', sans-serif;
+}
+
+#aboutImg{
+    height: 100%;
 }
