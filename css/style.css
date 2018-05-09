@@ -1,0 +1,20 @@
+h1, h2, h3, h4, i {
+    color: #933038;
+}
+
+.section.light, .page-footer .section.footer-copyright {
+    background-color: #933038;
+}
+
+nav.navbar.solid.dark, nav.navbar.solid {
+    background-color: #933038;
+}
+
+.background {
+    background: cover;
+    background: no-repeat;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
