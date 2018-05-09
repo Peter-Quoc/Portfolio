@@ -20,6 +20,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-#aboutImg{
-    height: 100%;
+#myImg{
+    position: flex;
+    height: auto;
 }
